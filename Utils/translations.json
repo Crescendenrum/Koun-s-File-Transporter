@@ -1,0 +1,116 @@
+{
+    "welcome": {
+        "en": "Welcome to the File Organizer!",
+        "tr": "Dosya Düzenleyiciye Hoş Geldiniz!",
+        "fr": "Bienvenue dans l'Organisateur de Fichiers !",
+        "es": "¡Bienvenido al Organizador de Archivos!"
+    },
+    "manage_folders": {
+        "en": "Manage Folders to Scan:",
+        "tr": "Tarama Yapılacak Klasörleri Yönetin:",
+        "fr": "Gérer les dossiers à analyser :",
+        "es": "Gestionar carpetas para escanear:"
+    },
+    "add_folder": {
+        "en": "Add Folder",
+        "tr": "Klasör Ekle",
+        "fr": "Ajouter un dossier",
+        "es": "Agregar carpeta"
+    },
+    "remove_folder": {
+        "en": "Remove Folder",
+        "tr": "Klasör Kaldır",
+        "fr": "Supprimer le dossier",
+        "es": "Eliminar carpeta"
+    },
+    "manage_rules": {
+        "en": "Manage Your Organization Rules:",
+        "tr": "Düzenleme Kurallarınızı Yönetin:",
+        "fr": "Gérez vos règles d'organisation :",
+        "es": "Gestiona tus reglas de organización:"
+    },
+    "add_rule": {
+        "en": "Add Rule",
+        "tr": "Kural Ekle",
+        "fr": "Ajouter une règle",
+        "es": "Agregar regla"
+    },
+    "remove_rule": {
+        "en": "Remove Rule",
+        "tr": "Kural Kaldır",
+        "fr": "Supprimer une règle",
+        "es": "Eliminar regla"
+    },
+    "start_organizing": {
+        "en": "Start Organizing",
+        "tr": "Düzenlemeyi Başlat",
+        "fr": "Commencer l'organisation",
+        "es": "Comenzar a organizar"
+    },
+    "exit": {
+        "en": "Exit",
+        "tr": "Çıkış",
+        "fr": "Quitter",
+        "es": "Salir"
+    },
+    "select_folder": {
+        "en": "Select Folder to Scan",
+        "tr": "Taranacak klasörü seçin",
+        "fr": "Sélectionnez le dossier à analyser",
+        "es": "Selecciona la carpeta para escanear"
+    },
+    "enter_keywords": {
+        "en": "Enter keywords to search for files (separate multiple keywords with commas)",
+        "tr": "Dosya aramak için kelimeleri girin (Birden fazla kelime için virgülle ayırın)",
+        "fr": "Entrez des mots-clés pour rechercher des fichiers (séparez-les par des virgules)",
+        "es": "Introduce palabras clave para buscar archivos (separa varias con comas)"
+    },
+    "select_destination": {
+        "en": "Select Destination Folder",
+        "tr": "Hedef klasörü seçin",
+        "fr": "Sélectionnez le dossier de destination",
+        "es": "Selecciona la carpeta de destino"
+    },
+    "confirm_removal": {
+        "en": "Are you sure you want to remove it?",
+        "tr": "Kaldırmak istediğinize emin misiniz?",
+        "fr": "Êtes-vous sûr de vouloir le supprimer ?",
+        "es": "¿Estás seguro de que quieres eliminarlo?"
+    },
+    "confirmation": {
+        "en": "Confirmation",
+        "tr": "Onay",
+        "fr": "Confirmation",
+        "es": "Confirmación"
+    },
+    "no_rules_selected": {
+        "en": "Please select the rule you want to remove!",
+        "tr": "Lütfen silmek istediğiniz kuralı seçin!",
+        "fr": "Veuillez sélectionner la règle que vous souhaitez supprimer !",
+        "es": "¡Selecciona la regla que deseas eliminar!"
+    },
+    "add_scan_folder": {
+        "en": "Please add at least one scan folder!",
+        "tr": "Lütfen en az bir tarama klasörü ekleyin!",
+        "fr": "Veuillez ajouter au moins un dossier d'analyse !",
+        "es": "¡Agrega al menos una carpeta para escanear!"
+    },
+    "add_org_rule": {
+        "en": "Please add at least one organization rule!",
+        "tr": "Lütfen en az bir düzenleme kuralı ekleyin!",
+        "fr": "Veuillez ajouter au moins une règle d'organisation !",
+        "es": "¡Agrega al menos una regla de organización!"
+    },
+    "files_moved": {
+        "en": "Files Successfully Moved!",
+        "tr": "Dosyalar Başarıyla Taşındı!",
+        "fr": "Fichiers déplacés avec succès !",
+        "es": "¡Archivos movidos con éxito!"
+    },
+    "no_matching_files": {
+        "en": "No files matched the specified rules.",
+        "tr": "Hiçbir dosya belirtilen kurallara uymadı.",
+        "fr": "Aucun fichier ne correspond aux règles spécifiées.",
+        "es": "Ningún archivo coincide con las reglas especificadas."
+    }
+}
